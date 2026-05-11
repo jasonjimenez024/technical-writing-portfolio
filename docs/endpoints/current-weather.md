@@ -55,37 +55,49 @@ By coordinates:
 
 ```json
 {
-  "name": "Calgary",
-  "main": {
-    "temp": 12.4,
-    "feels_like": 11.1,
-    "temp_min": 10.2,
-    "temp_max": 14.1,
-    "pressure": 1013,
-    "humidity": 45
+  "coord": {
+    "lon": -114.0853,
+    "lat": 51.0501
   },
   "weather": [
     {
-      "id": 800,
-      "main": "Clear",
-      "description": "clear sky",
-      "icon": "01d"
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
     }
   ],
+  "base": "stations",
+  "main": {
+    "temp": 8.95,
+    "feels_like": 4.54,
+    "temp_min": 6.94,
+    "temp_max": 9.97,
+    "pressure": 1016,
+    "humidity": 73,
+    "sea_level": 1016,
+    "grnd_level": 890
+  },
+  "visibility": 10000,
   "wind": {
-    "speed": 5.2,
-    "deg": 270
+    "speed": 11.32,
+    "deg": 360,
+    "gust": 14.4
   },
   "clouds": {
-    "all": 0
+    "all": 75
   },
+  "dt": 1778511614,
   "sys": {
+    "type": 2,
+    "id": 2011327,
     "country": "CA",
-    "sunrise": 1715856000,
-    "sunset": 1715910000
+    "sunrise": 1778500332,
+    "sunset": 1778555599
   },
   "timezone": -21600,
-  "dt": 1715880000,
+  "id": 5913490,
+  "name": "Calgary",
   "cod": 200
 }
 ```
