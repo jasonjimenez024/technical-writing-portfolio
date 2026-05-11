@@ -1,9 +1,9 @@
-# Technical Writing Portfolio — Jason Jimenez
+# Technical Writing Portfolio | Jason Jimenez
 
-Hi, I'm a technical writer with one year of SaaS knowledge base 
-experience at a real-time location systems company and a background 
-in journalism. I specialize in clear, user-focused documentation 
-built with a docs-as-code workflow.
+This portfolio demonstrates developer-facing technical writing using a docs-as-code workflow.
+The API documentation sample was built by researching, testing, and documenting the OpenWeather Current Weather API,
+including authentication, endpoint reference, error handling, and a glossary.
+All documentation was written in Markdown, version-controlled in Git, and published via GitHub Pages.
 
 ---
 
@@ -21,9 +21,13 @@ AI-assisted documentation, application security writing
 ## Repository Contents
 
 ### API Documentation Sample
-A working documentation sample built around the OpenWeather API — 
+A working documentation sample built around the OpenWeather API, 
 including a getting-started guide, authentication walkthrough, 
 endpoint reference, and error code reference.
+
+> This guide is written for developers who have never used a REST API. 
+> It covers making your first OpenWeather API call using Postman, 
+> reading the response, and understanding the key data fields returned.
 
 - [Getting Started](./docs/getting-started.md)
 - [Authentication](./docs/authentication.md)
@@ -35,9 +39,9 @@ endpoint reference, and error code reference.
 
 | Project | Description |
 |---|---|
-| [AI-Assisted Documentation](https://drive.google.com/drive/folders/1G2pOzR49LwOoDiJ_h-td_a_lqAj6GRpS?usp=sharing) | How I integrate LLMs into drafting, editing, and reviewing technical content while maintaining accuracy and voice |
 |  [Static Analysis Explained](https://diagnostic-dolphin-980.notion.site/Static-Analysis-Explained-359038e8af6680b8afa9c74b8d828f60) | Approaches to documenting secure development practices for technical and semi-technical audiences |
 | [SaaS Knowledge Base](https://drive.google.com/drive/folders/1SSHOX4UYmFeHOo8r3orMapbV2yzC0Poy?usp=sharing) | Lessons from building and maintaining customer-facing docs for a real-time location systems product |
+| [AI-Assisted Documentation](https://drive.google.com/drive/folders/1G2pOzR49LwOoDiJ_h-td_a_lqAj6GRpS?usp=sharing) | How I integrate LLMs into drafting, editing, and reviewing technical content while maintaining accuracy and voice |
 
 ---
 
