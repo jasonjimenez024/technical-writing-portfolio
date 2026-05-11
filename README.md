@@ -43,4 +43,4 @@ endpoint reference, and error code reference.
 
 - **LinkedIn:** [linkedin.com/in/jasonjimenez024](https://linkedin.com/in/jasonjimenez024)
 - **Email:** jason.jimenez024@gmail.com
-- **Portfolio:** [jasonjimenez.scrollhelp.site/portfolio](https://jasonjimenez.scrollhelp.site/portfolio)
+- **GitHub Portfolio:** [jasonjimenez024.github.io/technical-writing-portfolio](https://jasonjimenez024.github.io/technical-writing-portfolio)
