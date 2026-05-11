@@ -1,5 +1,3 @@
-# Technical Writing Portfolio | Jason Jimenez
-
 This portfolio demonstrates developer-facing technical writing using a docs-as-code workflow.
 The API documentation sample was built by researching, testing, and documenting the OpenWeather Current Weather API,
 including authentication, endpoint reference, error handling, and a glossary.
@@ -13,7 +11,7 @@ All documentation was written in Markdown, version-controlled in Git, and publis
 a real-time location systems (RTLS) platform
 - **Education:** Diploma in Journalism — SAIT, Calgary, AB
 - **Focus areas:** API documentation, developer experience, 
-AI-assisted documentation, application security writing
+AI-assisted documentation, developer-adjacent documentation.
 - **Toolchain:** Markdown, Git/GitHub, OpenAPI, Postman
 
 ---
