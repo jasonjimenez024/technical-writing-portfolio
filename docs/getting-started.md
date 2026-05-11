@@ -75,8 +75,6 @@ A successful request returns a JSON object with current weather data for Calgary
 }
 ```
 
-This is a simplified version. The full response contains additional fields covered in the [endpoint reference](./endpoints/current-weather.md).
-
 ## What the main fields mean
 
 | Field | What it tells you |
