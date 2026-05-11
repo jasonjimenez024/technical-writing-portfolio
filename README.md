@@ -23,10 +23,6 @@ A working documentation sample built around the OpenWeather API,
 including a getting-started guide, authentication walkthrough, 
 endpoint reference, and error code reference.
 
-> This guide is written for developers who have never used a REST API. 
-> It covers making your first OpenWeather API call using Postman, 
-> reading the response, and understanding the key data fields returned.
-
 - [Getting Started](./docs/getting-started.md)
 - [Authentication](./docs/authentication.md)
 - [Current Weather Endpoint](./docs/endpoints/current-weather.md)
