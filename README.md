@@ -25,15 +25,19 @@ A working documentation sample built around the OpenWeather API —
 including a getting-started guide, authentication walkthrough, 
 endpoint reference, and error code reference.
 
-> *In progress — adding files weekly*
+- [Getting Started](./docs/getting-started.md)
+- [Authentication](./docs/authentication.md)
+- [Current Weather Endpoint](./docs/endpoints/current-weather.md)
+- [Error Codes](./docs/reference/error-codes.md)
+- [Glossary](./docs/reference/glossary.md)
 
 ### Case Studies
 
 | Project | Description |
 |---|---|
-| [AI-Assisted Documentation](#) | How I integrate LLMs into drafting, editing, and reviewing technical content while maintaining accuracy and voice |
-| [Application Security Documentation](#) | Approaches to documenting secure development practices for technical and semi-technical audiences |
-| [SaaS Knowledge Base](#) | Lessons from building and maintaining customer-facing docs for a real-time location systems product |
+| [AI-Assisted Documentation](https://drive.google.com/drive/folders/1G2pOzR49LwOoDiJ_h-td_a_lqAj6GRpS?usp=sharing) | How I integrate LLMs into drafting, editing, and reviewing technical content while maintaining accuracy and voice |
+|  [Static Analysis Explained](https://diagnostic-dolphin-980.notion.site/Static-Analysis-Explained-359038e8af6680b8afa9c74b8d828f60) | Approaches to documenting secure development practices for technical and semi-technical audiences |
+| [SaaS Knowledge Base](https://drive.google.com/drive/folders/1SSHOX4UYmFeHOo8r3orMapbV2yzC0Poy?usp=sharing) | Lessons from building and maintaining customer-facing docs for a real-time location systems product |
 
 ---
 
