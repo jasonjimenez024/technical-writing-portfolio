@@ -28,20 +28,50 @@ A successful request returns a JSON object with current weather data for Calgary
 
 ```json
 {
-  "name": "Calgary",
-  "main": {
-    "temp": 12.4,
-    "feels_like": 11.1,
-    "humidity": 45
+  "coord": {
+    "lon": -114.0853,
+    "lat": 51.0501
   },
   "weather": [
     {
-      "description": "clear sky"
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
     }
   ],
+  "base": "stations",
+  "main": {
+    "temp": 8.95,
+    "feels_like": 4.54,
+    "temp_min": 6.94,
+    "temp_max": 9.97,
+    "pressure": 1016,
+    "humidity": 73,
+    "sea_level": 1016,
+    "grnd_level": 890
+  },
+  "visibility": 10000,
   "wind": {
-    "speed": 5.2
-  }
+    "speed": 11.32,
+    "deg": 360,
+    "gust": 14.4
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1778511614,
+  "sys": {
+    "type": 2,
+    "id": 2011327,
+    "country": "CA",
+    "sunrise": 1778500332,
+    "sunset": 1778555599
+  },
+  "timezone": -21600,
+  "id": 5913490,
+  "name": "Calgary",
+  "cod": 200
 }
 ```
 
